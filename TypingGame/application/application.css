@@ -1,0 +1,45 @@
+.root{
+	-fx-background-image: url("../assets/logo-large.png");	
+	-fx-background-repeat: no-repeat; 
+	-fx-background-size: stretch  ;
+	-fx-background-position: center center;
+}
+
+.label{
+	-fx-font-size: 1.4em;	
+	-fx-font-family: Sans-serif;
+	-fx-font-weight: bold;
+}
+
+.button{
+	-fx-background-color: orange;
+	-fx-font-weight: bold;
+	-fx-font-size:  1.4em;
+}
+
+.progress-bar{
+	-fx-accent: orange;
+}
+
+.progress-indicator{
+	-fx-accent: orange;
+}
+.header-panel{
+	-fx-alignment: center;
+	-fx-background-color: lightgray;
+}
+
+
+#score-table-alert {
+	-fx-background-image: url("../assets/logo-large.png"); 
+    -fx-padding: 20px;
+}
+
+#btnMenu{
+	-fx-background-color: #333;
+	-fx-font-weight: bold;
+	-fx-font-size:  1.4em;
+	-fx-text-fill: orange;
+	
+}
+
