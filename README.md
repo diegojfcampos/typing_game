@@ -1,6 +1,6 @@
 
 ## Appendix
-Responsive Gui Game create with Java FX
+Responsive Gui Game created with Java FX
 
 - Desktop Application
 
